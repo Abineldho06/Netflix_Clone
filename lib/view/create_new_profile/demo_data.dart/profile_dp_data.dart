@@ -1,0 +1,18 @@
+List<String> dpimages = [
+  'assets/images/profile_images/classic1.jpg',
+  'assets/images/profile_images/classic2.jpg',
+  'assets/images/profile_images/classic3.jpg',
+  'assets/images/profile_images/classic4.jpg',
+  'assets/images/profile_images/special1.jpg',
+  'assets/images/profile_images/special2.jpg',
+  'assets/images/profile_images/special3.jpg',
+  'assets/images/profile_images/special4.jpg',
+  'assets/images/profile_images/sqg1.jpg',
+  'assets/images/profile_images/sqg2.jpg',
+  'assets/images/profile_images/sqg3.jpg',
+  'assets/images/profile_images/sqg4.jpg',
+  'assets/images/profile_images/tron1.jpg',
+  'assets/images/profile_images/tron2.jpg',
+  'assets/images/profile_images/tron3.jpg',
+  'assets/images/profile_images/tron4.jpg',
+];
